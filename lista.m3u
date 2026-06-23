@@ -1,1 +1,4 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-logo="https://ejemplo.com/logo.png" group-title="TV", Canal Ejemplo
+https://ejemplo.com/stream/canal.m3u8
